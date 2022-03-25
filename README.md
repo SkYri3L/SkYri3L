@@ -6,7 +6,7 @@
 </p>
 
 ---
-### Github Stats
+###           Github Stats
 
 <br />
 <p align="center">
