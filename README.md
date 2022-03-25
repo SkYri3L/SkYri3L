@@ -14,12 +14,9 @@
   </p>
   
   <p align="center">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintLily&langs_count=8&theme=material-palenight" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkYri3L&langs_count=8&theme=material-radical" />
   </p>
-  
-  <p align="center">
-    <img alt="" src="https://komarev.com/ghpvc/?username=mintlily&color=brightgreen&style=flat-square" />
-  </p>
+
   
   <br />
 </details>
