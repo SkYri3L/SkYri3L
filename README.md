@@ -6,6 +6,9 @@
 </p>
 
 ---
+<p align="center">
+  ### GitHub Stats
+
 <br />
 <p align="center">
   <img alt="SkYri3L's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SkYri3L&show_icons=true&theme=radical" />
