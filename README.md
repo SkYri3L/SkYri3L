@@ -17,6 +17,11 @@
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkYri3L&langs_count=8&theme=material-palenight" />
 </p>
 
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=SkYri3L&color=blueviolet)
+</p>
+
+
 
 
 ---
