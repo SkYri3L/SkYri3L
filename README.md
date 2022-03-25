@@ -1,6 +1,7 @@
 ### Hello I'm SkYri3l Or Sky
 <p>
   I'm a 17 year old British College student that plays any games that friends ask me or anything that interests me and most of my time gets spent on VRChat XD
+  
   I've been Studying Python for 6 Years now and Moving on to learning C# in 2022 as I had change of heart
 </p>
 
