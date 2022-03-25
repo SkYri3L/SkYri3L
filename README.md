@@ -6,22 +6,14 @@
 </p>
 
 ---
+<br />
+<p align="center">
+  <img alt="SkYri3L's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SkYri3L&show_icons=true&theme=radical" />
+</p>
 
-<details>
-  <summary>:zap: Github Stats (Click to expand)</summary>
-  
-  <br />
-  <p align="center">
-    <img alt="SkYri3L's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SkYri3L&show_icons=true&theme=radical" />
-  </p>
-  
-  <p align="center">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkYri3L&langs_count=8&theme=material-palenight" />
-  </p>
-
-  
-  <br />
-</details>
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkYri3L&langs_count=8&theme=material-palenight" />
+</p>
 
 
 
