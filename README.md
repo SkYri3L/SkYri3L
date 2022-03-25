@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=SkYri3L&color=blueviolet)
+  ![](https://komarev.com/ghpvc/?username=SkYri3L)
 </p>
 
 
