@@ -5,6 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkYri3L&show_icons=true&theme=radical)
 
+<br />
 <p align="center">
   <img alt="Visual Studio 2019" width="26px" src="https://MintLily.lgbt/img/icons/github/vs2019.png" />
   <img alt="JetBrains Rider" width="26px" src="https://MintLily.lgbt/img/icons/github/rider.png" />
