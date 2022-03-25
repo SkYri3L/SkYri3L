@@ -1,4 +1,4 @@
-### Hello I'm SkYri3l/Sky
+### Hello I'm SkYri3l Or Sky
 <p>
   I've been Studying Python for 6 Years now and Moving on to learning C# in 2022 as I had change of heart
 </p>
