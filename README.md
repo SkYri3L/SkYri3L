@@ -1,6 +1,6 @@
 ### Hello I'm Sky/SkYri3L
 <p>
-  I've been Studying Python for 6 Years now and Moving on to learning C# in 2022 as I consider my self as a coding enuthuest
+  I've been Studying Python for 6 Years now and Moving on to learning C# in 2022 as I had change of heart
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkYri3L&show_icons=true&theme=radical)
