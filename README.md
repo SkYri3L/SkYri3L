@@ -2,7 +2,7 @@
 <p>
   I'm a British College student that plays any games or anything that interests me and most of my time gets spent on VRChat XD
   
-  I've been Studying Python for 6 Years now and Moving on to learning C# in 2022 as I had change of heart
+  I've been Studying Python for 6 Years now and Moving on to learning C# and HTML/CSS in 2022 as I had change of heart
 </p>
 
 ---
