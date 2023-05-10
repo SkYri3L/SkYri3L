@@ -1,8 +1,8 @@
 ### Hello I'm SkYri3l Or Sky
 <p>
-  I'm a British College student that plays any games or anything that interests me.
+  I'm a British College student that plays some games or anything that interests me.
   
-  I've been Studying Python for 7 Years now and Moving on to learning C# and HTML/CSS in 2022 as I had change of heart
+  I've been Studying Python for 8 Years now and trying to move on to learning C# and HTML/CSS when i have the time
 </p>
 
 ---
