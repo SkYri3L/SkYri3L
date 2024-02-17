@@ -1,7 +1,6 @@
-### Hello I'm SkYri3l Or Sky
+### Hello I'm SkYri3L Or Sky
 <p>
-  I'm a British College student that plays some games or anything that interests me.
-  
+  I'm a Random Brit, Who trys random things and gives up on all projects
   I've been Studying Python for 8 Years now and trying to move on to learning C# and HTML/CSS when i have the time
 </p>
 
