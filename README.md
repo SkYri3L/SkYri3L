@@ -18,12 +18,3 @@
 </p>
 
 ---
-<p align="center">
-  <img alt="Visual Studio 2019" width="26px" src="https://MintLily.lgbt/img/icons/github/vs2019.png" />
-  <img alt="JetBrains Rider" width="26px" src="https://MintLily.lgbt/img/icons/github/rider.png" />
-  <img alt="GitHub" width="26px" src="https://MintLily.lgbt/img/icons/github/github.png" />
-  <img alt="Blender3D" width="26px" src="https://MintLily.lgbt/img/icons/github/Blender.ico" />
-  <img alt="Unity3D" width="26px" src="https://MintLily.lgbt/img/icons/github/unity.png" />
-  <img alt="Photoshop CC" width="26px" src="https://MintLily.lgbt/img/icons/github/photoshop.png" />
-</p>
-
