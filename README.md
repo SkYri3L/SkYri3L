@@ -7,7 +7,6 @@
 
 ---
 ### Github Stats
-![SkYri3L's Stats]()
 <br />
 <p align="center">
   <img alt="SkYri3L's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SkYri3L&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" />
