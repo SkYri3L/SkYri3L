@@ -7,14 +7,14 @@
 
 ---
 ### Github Stats
-
+![SkYri3L's Stats]()
 <br />
 <p align="center">
-  <img alt="SkYri3L's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SkYri3L&show_icons=true&theme=radical" />
+  <img alt="SkYri3L's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SkYri3L&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" />
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkYri3L&langs_count=8&theme=material-palenight" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkYri3L&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" />
 </p>
 
 ---
