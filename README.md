@@ -1,8 +1,8 @@
-### Hello I'm SkYri3L Or Sky
+### Errm So I'm SkYri3L Or Sky
 <p>
-  I'm a Random Brit, Who trys random things and gives up on all projects
+  I'm a Random Brit, Who codes random things and gives up on all projects 
   
-  I've been Studying Python for 8 Years now and trying to move on to learning C# and HTML/CSS when i have the time
+  I've been Learnig All Sorts for 9ish Years (Arch btw)
 </p>
 
 ---
