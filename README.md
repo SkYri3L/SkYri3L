@@ -2,7 +2,7 @@
 <p>
   I'm a Random Brit, Who codes random things and gives up on all projects 
   
-  I've been Learnig All Sorts for 9ish Years (Arch btw)
+  I've been Learning All Sorts for 9ish Years (Arch btw)
 </p>
 
 ---
