@@ -1,6 +1,6 @@
 ### Errm So I'm SkYri3L Or Sky
 <p>
-  I'm a Random Brit, Who codes random things and gives up on all projects 
+  I'm a Random Brit, Who codes random things that sounds intresting
   
   I've been Learning All Sorts for 9ish Years 
 </p>
